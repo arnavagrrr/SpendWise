@@ -1,0 +1,201 @@
+description,category,amount (INR)
+BigBasket grocery delivery,Food,1847
+Swiggy dinner order Zomato,Food,342
+Zomato lunch delivery,Food,289
+Blinkit 10-min grocery delivery,Food,623
+DMart weekly groceries,Food,2341
+Reliance Fresh supermarket,Food,1102
+Spencer's Retail Mumbai,Food,876
+More Supermarket Bangalore,Food,543
+McDonald's Indiranagar Bangalore,Food,487
+KFC Koramangala outlet,Food,612
+Burger King Phoenix Mall Mumbai,Food,534
+Domino's Pizza online delivery,Food,689
+Pizza Hut order,Food,745
+Subway Connaught Place Delhi,Food,378
+Starbucks Bandra West Mumbai,Food,620
+Cafe Coffee Day outlet,Food,210
+Chaayos tea & snacks,Food,185
+Haldiram's snacks purchase,Food,430
+Licious meat delivery,Food,895
+FreshToHome fish order,Food,740
+Country Delight dairy subscription,Food,1200
+Eatfit healthy meal delivery,Food,315
+Box8 meal delivery,Food,267
+Faasos wraps order,Food,299
+Behrouz Biryani delivery,Food,460
+Paradise Biryani Hyderabad,Food,520
+Theobroma bakery order,Food,580
+Social restaurant Pune,Food,1840
+Mainland China dinner,Food,2650
+Naturals Ice Cream Chennai,Food,180
+Third Wave Coffee Bangalore,Food,390
+Amul milk online order,Food,320
+Swiggy Instamart groceries,Food,712
+Dunzo quick grocery run,Food,415
+Ola cab ride Bangalore,Transport,187
+Uber auto Koramangala,Transport,143
+Rapido bike taxi,Transport,65
+Namma Metro daily pass,Transport,100
+BMTC bus pass recharge,Transport,500
+Delhi Metro token purchase,Transport,40
+Indian Railways ticket booking,Transport,1245
+IRCTC train ticket Delhi-Mumbai,Transport,2145
+IndiGo flight Bangalore-Delhi,Transport,4299
+Air India ticket Mumbai-Kolkata,Transport,5800
+SpiceJet flight booking,Transport,3750
+RedBus bus ticket Hyderabad,Transport,780
+Ola outstation ride,Transport,2340
+Uber intercity Pune-Mumbai,Transport,1850
+HP Petrol pump fuel,Transport,2500
+Indian Oil fuel station,Transport,3100
+BPCL fuel recharge FastTag,Transport,500
+FASTag toll recharge NHAI,Transport,300
+Yulu electric cycle rental,Transport,55
+Bounce scooter rental,Transport,90
+Zoomcar car rental weekend,Transport,3200
+MakeMyTrip flight booking,Transport,6500
+Cleartrip hotel transfer,Transport,4100
+Meru cab airport ride,Transport,650
+BluSmart electric cab,Transport,230
+MSRTC bus ticket Pune,Transport,340
+Parking fee Phoenix Marketcity,Transport,100
+Mumbai Local train pass,Transport,245
+Ola Electric scooter ride,Transport,112
+Porter mini truck booking,Transport,899
+Vistara flight upgrade fee,Transport,1500
+GoAir ticket Goa,Transport,3200
+Auto rickshaw fare Hyderabad,Transport,95
+Cab share Bangalore airport,Transport,580
+Amazon India order,Shopping,1299
+Flipkart electronics purchase,Shopping,8999
+Myntra clothing haul,Shopping,2345
+Ajio fashion order,Shopping,1870
+Nykaa beauty products,Shopping,1560
+Meesho order,Shopping,649
+Snapdeal purchase,Shopping,899
+Croma laptop accessories,Shopping,4200
+Reliance Digital headphones,Shopping,3499
+Apple Online Store India,Shopping,79900
+Samsung India online store,Shopping,12999
+Decathlon sports equipment,Shopping,2150
+H&M India online order,Shopping,1899
+Zara India clothing,Shopping,3490
+Lifestyle store Bangalore,Shopping,2760
+Shoppers Stop Mumbai,Shopping,3150
+Westside clothing store,Shopping,1450
+Pantaloons fashion,Shopping,1290
+Puma official store India,Shopping,3999
+Adidas India online,Shopping,4299
+Nike India footwear,Shopping,5499
+Bata shoe store,Shopping,1299
+Woodland shoes purchase,Shopping,2899
+Fabindia kurta set,Shopping,1850
+W for Woman clothing,Shopping,1399
+Max Fashion store,Shopping,890
+Ikea India home furnishing,Shopping,6780
+Urban Ladder furniture,Shopping,12500
+Pepperfry home decor,Shopping,3400
+FirstCry baby products,Shopping,1875
+Tata Cliq order,Shopping,2990
+JioMart grocery & more,Shopping,1340
+BookMyShow merchandise,Shopping,499
+Lenskart eyewear order,Shopping,2800
+Netflix monthly subscription,Entertainment,199
+Amazon Prime Video renewal,Entertainment,299
+Disney+ Hotstar subscription,Entertainment,499
+SonyLIV monthly plan,Entertainment,549
+ZEE5 subscription,Entertainment,399
+JioCinema premium plan,Entertainment,199
+BookMyShow movie tickets,Entertainment,350
+PVR Cinemas IMAX booking,Entertainment,650
+INOX multiplex tickets,Entertainment,480
+Carnival Cinemas booking,Entertainment,520
+Spotify Premium India,Entertainment,119
+Gaana Plus subscription,Entertainment,99
+JioSaavn Pro plan,Entertainment,99
+YouTube Premium monthly,Entertainment,129
+Steam game purchase,Entertainment,1299
+PlayStation Store India,Entertainment,4999
+Xbox Game Pass Ultimate,Entertainment,699
+MPL gaming tournament fee,Entertainment,250
+Dream11 contest entry,Entertainment,100
+Ludo King premium,Entertainment,59
+Wonderla amusement park ticket,Entertainment,1200
+Imagica theme park entry,Entertainment,1800
+EsselWorld ticket Mumbai,Entertainment,950
+Smaaash gaming zone,Entertainment,600
+Laser tag arena Bangalore,Entertainment,450
+Bowling alley Hyderabad,Entertainment,350
+Escape room ticket Chennai,Entertainment,799
+Insider.in concert ticket,Entertainment,2500
+Paytm Movie tickets,Entertainment,120
+National Museum Delhi entry,Entertainment,30
+Nehru Planetarium ticket,Entertainment,50
+IPL match ticket Mumbai,Entertainment,3500
+Sunburn Festival ticket Goa,Entertainment,8000
+BESCOM electricity bill Bangalore,Bills,1240
+MSEDCL electricity bill Mumbai,Bills,2100
+BSES power bill Delhi,Bills,1875
+Tata Power monthly bill,Bills,1650
+Airtel broadband monthly,Bills,999
+Jio fiber internet plan,Bills,1199
+BSNL landline bill,Bills,450
+Airtel mobile postpaid,Bills,799
+Jio mobile recharge,Bills,239
+Vi postpaid bill,Bills,699
+BWSSB water bill Bangalore,Bills,380
+Delhi Jal Board water bill,Bills,290
+Mahanagar Gas bill Mumbai,Bills,870
+IGL gas bill Delhi,Bills,760
+LIC premium payment,Bills,3200
+HDFC Life insurance premium,Bills,4500
+Star Health insurance renewal,Bills,12000
+ICICI Lombard premium,Bills,8500
+SBI home loan EMI,Bills,32500
+HDFC home loan EMI,Bills,28000
+Bajaj Finserv EMI payment,Bills,3200
+Car loan EMI ICICI Bank,Bills,8700
+Personal loan EMI Axis Bank,Bills,5400
+Society maintenance charges,Bills,2500
+Municipal property tax,Bills,4200
+DishTV recharge,Bills,300
+Tata Play DTH recharge,Bills,450
+ACT Fibernet bill,Bills,699
+Hathway broadband bill,Bills,599
+Amazon Pay Later bill,Bills,1500
+Simpl Pay Later dues,Bills,800
+LazyPay repayment,Bills,600
+BBMP property tax Bangalore,Bills,6500
+Apollo Pharmacy medicines,Health,450
+MedPlus pharmacy purchase,Health,380
+1mg online pharmacy order,Health,890
+Netmeds prescription delivery,Health,620
+Practo doctor consultation,Health,500
+Apollo 24/7 teleconsult,Health,299
+Tata 1mg lab test booking,Health,1200
+Thyrocare blood test,Health,800
+Dr Lal PathLabs test,Health,950
+Manipal Hospital OPD fee,Health,800
+Fortis Hospital consultation,Health,700
+Apollo Hospital appointment,Health,600
+Columbia Asia clinic visit,Health,400
+Narayana Health checkup,Health,750
+Cult.fit gym membership,Health,2499
+Gold's Gym monthly fee,Health,1800
+Anytime Fitness membership,Health,1500
+Yoga class subscription,Health,800
+Cure.fit nutrition plan,Health,999
+HealthifyMe premium plan,Health,999
+Fittr coaching subscription,Health,1499
+Lenskart eye checkup fee,Health,300
+Dentist consultation fee,Health,600
+Physiotherapy session,Health,500
+Dermatologist clinic visit,Health,700
+Nutritionist consultation,Health,800
+StepSetGo premium plan,Health,299
+BodyAndSoul gym Pune,Health,1200
+Sportsfit gym Delhi,Health,1000
+MFine doctor consultation,Health,399
+Metropolis lab test,Health,750
+Himalaya wellness products,Health,320
